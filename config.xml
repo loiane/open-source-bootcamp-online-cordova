@@ -81,4 +81,8 @@
     <plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^1.2.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
+    <plugin name="cordova-plugin-camera" spec="^4.0.3" />
+    <engine name="ios" spec="4.5.4" />
+    <plugin name="cordova-plugin-appcenter-crashes" spec="^0.1.3" />
+    <platform name="ios"> <preference name="APP_SECRET" value="f802e3e8-ba28-4002-8721-da16012eb764" /> </platform>
 </widget>
